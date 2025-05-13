@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/wallpaper-wide.jpg" alt="Pixel Art Garota Codando" />
+  <img src="./assets/wallpaper-wide.webp" alt="Pixel Art Garota Codando" />
 </div>
 # ✨ Olá mundo, me chamo Maria Eduarda Xavier - Desenvolvedora de Software ✨
 
@@ -21,7 +21,7 @@
 </div>
 
 
-![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxvier\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=4c7818\&bg_color=3a2a2e)
+![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=4c7818\&bg_color=3a2a2e)
 
 
 
