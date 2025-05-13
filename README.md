@@ -12,14 +12,9 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&theme=dark)
-
-
 ## Vamos Criar Algo Incrível! 💫
 
-💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-
-## Vamos Conectar!
+💬 Quer colaborar em um projeto? Estou sempre aberta a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
 
 <div> 
   <a href = "pro.maduxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,7 +23,10 @@
 
  <br/>
 
-![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&bg_color=1f1024)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&theme=dark&layout=compact" width="30%"  />
+  <img src="https://github-readme-stats.vercel.app/api/?username=mariadxavier&show_icons=true&theme=dark" width="40%" />
+</div>
 
 <br/>
 <div align="center">
