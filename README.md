@@ -21,7 +21,7 @@
 </div>
 
 
-![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=4c7818\&bg_color=3a2a2e)
+![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&text_color=f07529\&bg_color=1f1024)
 
 
 
