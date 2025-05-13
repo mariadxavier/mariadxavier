@@ -8,6 +8,8 @@
 💻 Aqui estão algumas das tecnologias que eu domino:
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,mongo,html,css,git,visualstudio)](https://skillicons.dev)
+
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&layout=compact)
 
 ## Vamos Criar Algo Incrível! 💫
@@ -25,4 +27,10 @@
 
 ![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&text_color=f07529\&bg_color=1f1024)
 
-![Snake animation](https://github.com/mariadxavier/mariadxavier/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
