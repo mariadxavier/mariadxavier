@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/wallpaper-wide-cropped.jpg" alt="Pixel Art Garota Codando" />
+  <img src="./assets/bg-wide-cropped.jpg" alt="Pixel Art Garota Codando" />
 </div>
 # ✨ Olá mundo, me chamo Maria Eduarda Xavier - Desenvolvedora de Software ✨
 
@@ -8,6 +8,7 @@
 💻 Aqui estão algumas das tecnologias que eu domino:
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,mongo,html,css,git,visualstudio)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&layout=compact)
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -23,3 +24,5 @@
  <br/>
 
 ![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&text_color=f07529\&bg_color=1f1024)
+
+![Snake animation](https://github.com/mariadxavier/mariadxavier/blob/output/github-contribution-grid-snake.svg)
