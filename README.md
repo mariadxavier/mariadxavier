@@ -8,11 +8,11 @@
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,mongo,html,css,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,java,html,css,git,mongo)](https://skillicons.dev)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&theme=dark)
 
 
 ## Vamos Criar Algo Incrível! 💫
@@ -28,7 +28,7 @@
 
  <br/>
 
-![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&text_color=f07529\&bg_color=1f1024)
+![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&bg_color=1f1024)
 
 <br/>
 <div align="center">
