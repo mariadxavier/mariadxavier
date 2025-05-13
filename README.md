@@ -28,9 +28,8 @@
 ![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxavier\&show_icons=true\&title_color=fff\&icon_color=f07529\&text_color=f07529\&bg_color=1f1024)
 
 <br/>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/mariadxavier/mariadxavier/blob/output/github-snake-dark.svg)
+
+</div>
