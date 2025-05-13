@@ -1,3 +1,39 @@
+<div align="center">
+  <img src="./assets/wallpaper-square-cropped.jpg" alt="Pixel Art Garota Codando" />
+</div>
+# ✨ Olá mundo, me chamo Maria Eduarda Xavier - Desenvolvedora de Software ✨
+
+## Habilidades Tecnológicas
+
+💻 Aqui estão algumas das tecnologias que eu domino:
+
+    [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,mongo,html,css,git,visualstudio)](https://skillicons.dev)
+
+## Vamos Criar Algo Incrível! 💫
+
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+## Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-mariadxavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link={https://www.linkedin.com/in/mariadxavier/})]({https://www.linkedin.com/in/mariadxavier/})
+[![Email](https://img.shields.io/badge/-email-?style=flat-square&logo=Gmail&logoColor=white&link={pro.maduxavier@gmal.com})]({pro.maduxavier@gmail.com})
+
+
+![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api?username=mariadxavier\&rank_icon=percentile)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Olá, mundo!
 
  <div>
