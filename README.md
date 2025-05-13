@@ -14,7 +14,7 @@
 
 ## Vamos Criar Algo Incrível! 💫
 
-💬 Quer colaborar em um projeto? Estou sempre aberta a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+💬 Quer colaborar em um projeto? Estou sempre aberta a novas ideias e parcerias. Entre em contato comigo pelos meios abaixo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos:
 
 <div> 
   <a href = "pro.maduxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
