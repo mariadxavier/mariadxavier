@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/wallpaper-square-cropped.jpg" alt="Pixel Art Garota Codando" />
+  <img src="./assets/wallpaper-wide.jpg" alt="Pixel Art Garota Codando" />
 </div>
 # ✨ Olá mundo, me chamo Maria Eduarda Xavier - Desenvolvedora de Software ✨
 
@@ -7,7 +7,7 @@
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
-    [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,mongo,html,css,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,mongo,html,css,git,visualstudio)](https://skillicons.dev)
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -15,11 +15,13 @@
 
 ## Vamos Conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-mariadxavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link={https://www.linkedin.com/in/mariadxavier/})]({https://www.linkedin.com/in/mariadxavier/})
-[![Email](https://img.shields.io/badge/-email-?style=flat-square&logo=Gmail&logoColor=white&link={pro.maduxavier@gmal.com})]({pro.maduxavier@gmail.com})
+<div> 
+  <a href = "pro.maduxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariadxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
-![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api?username=mariadxavier\&rank_icon=percentile)
+![mariadxavier GitHub stats](https://github-readme-stats.vercel.app/api/?username=mariadxvier\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=4c7818\&bg_color=3a2a2e)
 
 
 
@@ -49,7 +51,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           
 </div>
  
