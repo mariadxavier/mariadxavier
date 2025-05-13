@@ -1,4 +1,4 @@
-# ✨ Olá mundo, me chamo Maria Eduarda Xavier - Desenvolvedora de Software ✨
+# ✨ Olá mundo, me chamo Maria Eduarda Xavier e sou Desenvolvedora de Software ✨
 
 <div align="center">
   <img src="./assets/bg-wide-cropped.jpg" alt="Pixel Art Garota Codando" />
