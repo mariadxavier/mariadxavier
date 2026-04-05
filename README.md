@@ -1,4 +1,4 @@
-## ✨ Olá mundo, me chamo Maria Eduarda Xavier e sou Desenvolvedora de Software ✨
+## Olá mundo! Me chamo Maria Eduarda Xavier e sou Desenvolvedora de Software
 
 <div align="center">
   <img src="./assets/bg-wide-cropped.jpg" alt="Pixel Art Garota Codando" />
@@ -8,7 +8,7 @@
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,java,html,css,git,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,html,css,git,kotlin,php)](https://skillicons.dev)
 
 <br/>
 
@@ -23,10 +23,10 @@
 
  <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadxavier&theme=dark&layout=compact" width="30%"  />
   <img src="https://github-readme-stats.vercel.app/api/?username=mariadxavier&show_icons=true&theme=dark" width="40%" />
-</div>
+</div> -->
 
 <br/>
 <div align="center">
